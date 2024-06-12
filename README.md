@@ -1,6 +1,6 @@
 ## TraceMesh: Scalable and Streaming Sampling for Distributed Traces
 
-This is the replication package for [CLOUD'24] [TraceMesh: Scalable and Streaming Sampling for Distributed Traces]().
+This is the replication package for [CLOUD'24] [TraceMesh: Scalable and Streaming Sampling for Distributed Traces](https://arxiv.org/abs/2406.06975).
 
 In this paper, we propose **TraceMesh**, a scalable and streaming trace sampler.
 
